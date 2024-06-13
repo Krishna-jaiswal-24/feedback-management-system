@@ -7,7 +7,7 @@
 
 ## Setup
 - Clone the repository
-- 
+- https://github.com/Krishna-jaiswal-24/feedback-management-system.git
 ### Backend
 
 1. Navigate to the `backend` directory.
